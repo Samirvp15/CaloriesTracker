@@ -3,7 +3,7 @@ function App() {
 
   return (
     <>
-      <h1>Contador de Calorias</h1>
+      <h1 className="text-6xl">Contador de Calorias</h1>
     </>
   )
 }
