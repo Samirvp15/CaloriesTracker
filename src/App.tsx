@@ -56,10 +56,6 @@ function App() {
 
       <section className="p-10 max-w-4xl mx-auto">
         <ActivityList
-
-          activities={state.activities}
-          dispatch={dispatch}
-
         />
       </section>
 
